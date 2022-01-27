@@ -4,6 +4,6 @@
 <html>
 <body>
 <h2 class="text-primary">HELLO</h2>
-<h2 class="text-muted">CLIP ! </h2>
+<h2 class="text-muted">힝힝 </h2>
 </body>
 </html>
