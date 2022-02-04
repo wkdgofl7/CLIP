@@ -3,7 +3,29 @@
 
 <html>
 <body>
-<h2 class="text-primary">HELLO</h2>
-<h2 class="text-muted">힝힝 </h2>
+	<!-- navbar -->
+    <div class="navbar clip-navbar">
+        <div class="container">
+	        <ul class="nav navbar-nav clip-menu">
+	            <li><a href="#">메일</a></li>
+	            <li><a href="#">블로그</a></li>
+	            <li><a href="#">지식in</a></li>
+	        </ul>
+        </div>
+    </div> 
+    
+    <div class="container">
+    	<div class="col-sm-9 page-main">
+    	</div>
+    	
+    	<div class="col-sm-3 page-login">
+    		<div class="login-form">
+    			<h3 class="text-center">로그인</h3>
+    			<input type="text" id="id" name="id" placeholder="아이디" title="아이디" class="form-control input_text" maxlength="41" value="" autocomplete="off"/>
+    			<input type="password" id="pw" name="pw" placeholder="비밀번호" title="비밀번호" class="form-control input_text" maxlength="16" autocomplete="off"/>
+    			<button id="loginBtn" class="btn login-btn" type="submit">로그인</button>
+    		</div>
+    	</div>
+    </div>      
 </body>
 </html>
