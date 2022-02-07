@@ -33,7 +33,7 @@
     <div class="container">
     	<div class="header">
 			<div class="search-form">
-				<a class="clip-logo"><img src="/images/title_logo.png" alt="CLIP"></a>
+				<a class="clip-logo" href="index.jsp"><img src="/images/title_logo.png" alt="CLIP"></a>
 				<input class="search-box" type="text" name="search" value="" autocomplete="off">
 				<button class="search-btn"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
 			</div>

@@ -19,3 +19,43 @@
 .clip-navbar ul li a:hover {
 	background-color: #ffffff;
 }
+
+.login-form {
+	margin: 0 auto;
+	border: 1px solid #DDDDDD;
+	background-color: #F7F7F7;
+	height:240px;
+}
+
+.logrin-form h3 {
+	margin: 10px;
+}
+
+.input_text {
+	margin: 0 auto;
+	margin-bottom: 5px;
+	width: 80%;
+}
+
+.login-btn {
+	display:block;
+	width:80%;
+	margin: 0 auto;
+	background-color: #D1E0EF;
+	border : 1px solid #D0D4F0;
+}
+
+ul.loginList {
+	margin-top:15px;
+}
+
+ul.loginList li:first-child {
+	margin-left:0;
+}
+
+ul.loginList li {
+	float:left;
+	list-style:none;
+	display:inlne;
+	margin-left:28px;
+}

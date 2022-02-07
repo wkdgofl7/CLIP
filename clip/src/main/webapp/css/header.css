@@ -39,26 +39,3 @@
 	font-size: 28.5px;
 	color: #ffffff;
 }
-
-.login-form {
-	margin: 0 auto;
-	border: 1px solid #DDDDDD;
-	background-color: #F7F7F7;
-}
-
-.logrin-form h3 {
-	margin: 10px;
-}
-
-.input_text {
-	margin: 0 auto;
-	margin-bottom: 5px;
-	width: 80%;
-}
-
-.login-btn {
-	margin: 0 auto;
-	width: 80%;
-	background-color: #D1E0EF;
-	border : 1px solid #D0D4F0;
-}
