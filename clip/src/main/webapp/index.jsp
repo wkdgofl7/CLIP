@@ -25,8 +25,8 @@
     			<input type="password" id="pw" name="pw" placeholder="비밀번호" title="비밀번호" class="form-control input_text" maxlength="16" autocomplete="off"/>
     			<button id="loginBtn" class="btn login-btn" type="submit">로그인</button>
     			<ul class="loginList">
-    				<li>아이디/비밀번호 찾기</li>
-    				<li>회원가입</li>
+    				<li><a href="">아이디/비밀번호 찾기</a></li>
+    				<li><a href="">회원가입</a></li>
 				</ul>
     		</div>
     	</div>
