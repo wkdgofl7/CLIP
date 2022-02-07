@@ -1,5 +1,14 @@
 @charset "UTF-8";
 
+
+body {
+	font-family: 'NanumGothic', sans-serif;
+}
+
+
+/*-------------------------------------- 
+  네비게이션 바
+---------------------------------------*/
 .clip-navbar {
 	border-top: 1px solid #DDDDDD;
 	border-bottom: 2px solid #DDDDDD;
@@ -20,42 +29,105 @@
 	background-color: #ffffff;
 }
 
+.clip-nav-weather {
+	margin-right: 3px;
+}
+
+
+/*-------------------------------------- 
+  로그인 폼
+---------------------------------------*/
 .login-form {
 	margin: 0 auto;
+	padding: 10px 0px;
 	border: 1px solid #DDDDDD;
 	background-color: #F7F7F7;
-	height:240px;
 }
 
-.logrin-form h3 {
-	margin: 10px;
-}
-
-.input_text {
-	margin: 0 auto;
-	margin-bottom: 5px;
+.top-login-form {
 	width: 80%;
+	margin: 0 auto;
+	padding: 10px 0px;
+}
+
+.top-login-form input {
+	font-size: 13px;
+}
+
+.input-id {
+	margin-bottom: 5px;
+	font-size: 15px;
+}
+
+.middle-login-form {
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.stay-check label {
+	color: #777777;
+	font-weight: normal;
 }
 
 .login-btn {
-	display:block;
-	width:80%;
+	display: block;
+	width: 80%;
 	margin: 0 auto;
-	background-color: #D1E0EF;
-	border : 1px solid #D0D4F0;
+	background-color: #c5d8eb;
+	border : 1px solid #a7c4e0;
 }
 
-ul.loginList {
+.under-login-form {
+	display: block;
+	width: 80%;
+	margin: 0 auto;
 	margin-top:15px;
+	margin-bottom: 15px;
 }
 
-ul.loginList li:first-child {
-	margin-left:0;
+.sign-up {
+	float: right;
 }
 
-ul.loginList li {
-	float:left;
-	list-style:none;
-	display:inlne;
-	margin-left:28px;
+.find-info a, .sign-up a {
+	text-decoration: none;
+	color: #777777!important;
+}
+
+
+/*-------------------------------------- 
+  메인 페이지
+---------------------------------------*/
+.clip-ad-link img {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.main-title {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+
+/*-------------------------------------- 
+  Footer
+---------------------------------------*/
+.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    color: #777777;
+    background-color: #FAFBFC;
+}
+
+.footer span {
+	margin: 0px 10px;
+}
+
+.footer span a {
+	text-decoration: none;
+	color: #777777 !important;
 }
