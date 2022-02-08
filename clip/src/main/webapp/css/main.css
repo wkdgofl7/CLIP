@@ -25,7 +25,15 @@ body {
 	font-size: 16px;
 }
 
-.clip-navbar ul li:hover {
+.clip-navbar ul li a:hover {
+	background-color: #ffffff;
+}
+
+.clip-navbar ul li a:visited {
+	background-color: #ffffff;
+}
+
+.clip-navbar ul li a:link {
 	background-color: #ffffff;
 }
 
