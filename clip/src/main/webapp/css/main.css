@@ -104,7 +104,7 @@ body {
 }
 
 
-/*-------------------------------------- 
+/*-------------------------------------- 	
   메인 페이지
 ---------------------------------------*/
 .clip-ad-link img {
@@ -112,9 +112,27 @@ body {
 	margin-bottom: 15px;
 }
 
+.hot-issue {
+	float:left;
+	width:855px;
+}
+
+.bullet {
+	border-right:1px solid #BDBDBD;
+	margin:0px 0px 0px 12px;
+}
 .main-title {
+	float:left;
 	font-size: 15px;
 	font-weight: bold;
+}
+
+.main-title-2 {
+	float:right;
+}
+
+.setting-topic {
+	margin-left:5px;
 }
 
 

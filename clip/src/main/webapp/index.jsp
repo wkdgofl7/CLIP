@@ -24,9 +24,13 @@
     		</div>
     		<div class="hot-issue">
     			<p class="main-title">오늘의 인기 글</p>
-    		</div>
+    			<p class="main-title-2">
+    			<span class="content-count">개의 글</span><span class="bullet"></span>
+    			<span class="setting-topic">관심주제 설정</span>
+    			</p>
+    		</div> <!-- col-sm-9 page-main 끝 -->
     	
-    	</div>
+    	</div> <!-- container 끝 -->
     	
     	<div class="col-sm-3 page-login">
     		<div class="login-form">
