@@ -16,23 +16,7 @@
 	        </ul>
         </div>
     </div> 
-    
-    <div class="container">
-    	<div class="col-sm-9 page-main">
-    		<div class="clip-Ad">
-    			<a class="clip-ad-link" href="#"><img src="images/ad_image.png" alt="원종이피자 방문포장 50% 할인"></a>
-    		</div>
-    		<div class="hot-issue">
-    			<p class="main-title">오늘의 인기 글</p>
-    			<p class="main-title-2">
-    			<span class="content-count">개의 글</span><span class="bullet"></span>
-    			<span class="setting-topic">관심주제 설정</span>
-    			</p>
-    		</div> <!-- col-sm-9 page-main 끝 -->
-    	
-    	</div> <!-- container 끝 -->
-    	
-    	<div class="col-sm-3 page-login">
+     	<div class="col-sm-3 page-login">
     		<div class="login-form">
     			<h3 class="text-center">로그인</h3>
     			<div class="top-login-form">
@@ -56,7 +40,35 @@
     			</div>
     		</div>
     	</div>	
-    </div>     
+    </div>        
+    <div class="container">
+    	<div class="col-sm-9 page-main">
+    		<div class="clip-Ad">
+    			<a class="clip-ad-link" href="#"><img src="images/ad_image.png" alt="원종이피자 방문포장 50% 할인"></a>
+    		</div>
+    		<div class="hot-issue">
+    			<p class="main-title">오늘의 인기 글</p>
+    			<p class="main-title-2">
+    			<span class="content-count">개의 글</span><span class="bullet"></span>
+    			<span class="setting-topic">관심주제 설정</span>
+    			</p>
+    		</div>
+    		
+    		<ul class="hot-issue-menu">
+    		<li><a class="hot-issue-link" href="#">엔터</a></li>
+    		<li><a class="hot-issue-link" href="#">스포츠</a></li>
+    		<li><a class="hot-issue-link" href="#">자동차</a></li>
+    		<li><a class="hot-issue-link" href="#">웹툰</a></li>
+    		<li><a class="hot-issue-link" href="#">경제M</a></li>
+    		<li><a class="hot-issue-link" href="#">추천·구독</a></li>
+    		<li><a class="hot-issue-link" href="#">레시피</a></li>
+    		<li><a class="hot-issue-link" href="#">리빙</a></li>
+    		</ul>
+    			
+    		</div> <!-- col-sm-9 page-main 끝 -->
+    	
+    	</div> <!-- container 끝 -->
+    
     
     <div class="footer">
         <div class="container">

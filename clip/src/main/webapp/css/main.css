@@ -45,8 +45,13 @@ body {
 /*-------------------------------------- 
   로그인 폼
 ---------------------------------------*/
+.page-login {
+	float:right;
+	width:20%;
+	right:300px;
+}
 .login-form {
-	margin: 0 auto;
+	margin:0 auto;
 	padding: 10px 0px;
 	border: 1px solid #DDDDDD;
 	background-color: #F7F7F7;
@@ -133,6 +138,28 @@ body {
 
 .setting-topic {
 	margin-left:5px;
+}
+
+ul.hot-issue-menu {
+	float:left;
+	margin:0;
+	display:inline-block;
+	padding:0;
+	background:#D8D8D8;
+}
+
+ul.hot-issue-menu li {
+	float:left;
+	width:106px;
+	height:50px;
+	list-style:none;
+	padding:15px;
+	text-align:center;
+}
+
+a.hot-issue-link{
+	color:black;
+	cursor:hand;
 }
 
 
