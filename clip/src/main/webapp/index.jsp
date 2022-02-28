@@ -62,7 +62,7 @@
     		<li><a class="hot-issue-link" href="#">경제M</a></li>
     		<li><a class="hot-issue-link" href="#">추천·구독</a></li>
     		<li><a class="hot-issue-link" href="#">레시피</a></li>
-    		<li><a class="hot-issue-link" href="#">리빙ㅇ</a></li>
+    		<li><a class="hot-issue-link" href="#">리빙</a></li>
     		</ul>
     			
     		</div> <!-- col-sm-9 page-main 끝 -->
